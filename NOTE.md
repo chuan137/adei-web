@@ -1,7 +1,8 @@
-### This
-document is a note on building a real time web application to display data from ADEI. It servers for my own tracking purpose.
+### THIS Document
+is a note on building a real time web application to display data from ADEI. It servers for gothering materials and tracking my learning curves.
 
-### IF
+### Backend
+I choose web2py because it is easy to learn and use. The OnO principle is a great Pro.
 
 
 > #### To-Read
