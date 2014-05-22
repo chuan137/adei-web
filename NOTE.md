@@ -1,7 +1,6 @@
-## THIS Document
+### THIS Document
 is a note on building a real time web application to display data from ADEI. It servers for gothering materials and tracking my learning curves.
 
-----------
 
 
 ### Backend: web2py
