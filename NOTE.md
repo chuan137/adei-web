@@ -1,6 +1,9 @@
 ## THIS Document
 is a note on building a real time web application to display data from ADEI. It servers for gothering materials and tracking my learning curves.
 
+----------
+
+
 ### Backend: web2py
 1. Web2py follows OnO principle, which makes first use very fast.
 2. [The-best-way-to-learn-web2py](http://learn-web2py.com/) is my first tutorial.
