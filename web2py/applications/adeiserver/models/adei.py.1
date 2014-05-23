@@ -1,0 +1,9 @@
+# coding: utf8
+
+adeicache = DAL('sqlite://storage.sqlite')
+
+adeicache.define_table('servers',
+       Field('key',
+       Field('host'),
+       Field('server'),
+       Field('database'))
